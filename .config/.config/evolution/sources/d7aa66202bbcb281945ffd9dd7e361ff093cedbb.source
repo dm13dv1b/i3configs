@@ -1,0 +1,22 @@
+[Data Source]
+DisplayName=demcsik@gmail.com
+Enabled=true
+Parent=
+
+[Authentication]
+Host=
+Method=Google
+Port=0
+ProxyUid=system-proxy
+RememberPassword=true
+User=demcsik@gmail.com
+CredentialName=
+
+[Collection]
+BackendName=google
+CalendarEnabled=true
+ContactsEnabled=true
+Identity=demcsik@gmail.com
+MailEnabled=true
+CalendarUrl=
+ContactsUrl=

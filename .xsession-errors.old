@@ -1,0 +1,10 @@
+conky: desktop window (125) is root window
+conky: window type - desktop
+conky: drawing to created window (0x400002)
+conky: drawing to double buffer
+conky: forked to background, pid is 26869
+
+No xresources data found!
+conky: received SIGINT or SIGTERM to terminate. bye!
+XIO:  fatal IO error 11 (Erőforrás átmenetileg nem érhető el) on X server ":0"
+      after 13069956 requests (13069956 known processed) with 0 events remaining.

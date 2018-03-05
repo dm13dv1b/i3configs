@@ -1,0 +1,226 @@
+2018-03-03 22:32:37 139792557273024 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-03-03 22:32:37 139792557273024 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-03-03 22:32:37 139792557273024 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-03-03 22:32:37 139792557273024 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-03-03 22:32:37 139792557273024 [Note] InnoDB: GCC builtin __atomic_thread_fence() is used for memory barrier
+2018-03-03 22:32:37 139792557273024 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2018-03-03 22:32:37 139792557273024 [Note] InnoDB: Using Linux native AIO
+2018-03-03 22:32:37 139792557273024 [Note] InnoDB: Using SSE crc32 instructions
+2018-03-03 22:32:37 139792557273024 [Note] InnoDB: Initializing buffer pool, size = 80.0M
+2018-03-03 22:32:37 139792557273024 [Note] InnoDB: Completed initialization of buffer pool
+2018-03-03 22:32:37 139792557273024 [Note] InnoDB: The first specified data file ./ibdata1 did not exist: a new database to be created!
+2018-03-03 22:32:37 139792557273024 [Note] InnoDB: Setting file ./ibdata1 size to 12 MB
+2018-03-03 22:32:37 139792557273024 [Note] InnoDB: Setting log file ./ib_logfile101 size to 48 MB
+2018-03-03 22:32:37 139792557273024 [Note] InnoDB: Setting log file ./ib_logfile1 size to 48 MB
+2018-03-03 22:32:37 139792557273024 [Note] InnoDB: Renaming log file ./ib_logfile101 to ./ib_logfile0
+2018-03-03 22:32:37 139792557273024 [Warning] InnoDB: New log files created, LSN=45781
+2018-03-03 22:32:37 139792557273024 [Note] InnoDB: Doublewrite buffer not found: creating new
+2018-03-03 22:32:37 139792557273024 [Note] InnoDB: Doublewrite buffer created
+2018-03-03 22:32:37 139792557273024 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-03-03 22:32:37 139792557273024 [Warning] InnoDB: Creating foreign key constraint system tables.
+2018-03-03 22:32:37 139792557273024 [Note] InnoDB: Foreign key constraint system tables created
+2018-03-03 22:32:37 139792557273024 [Note] InnoDB: Creating tablespace and datafile system tables.
+2018-03-03 22:32:37 139792557273024 [Note] InnoDB: Tablespace and datafile system tables created.
+2018-03-03 22:32:37 139792557273024 [Note] InnoDB: Waiting for purge to start
+2018-03-03 22:32:37 139792557273024 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.36-83.0 started; log sequence number 0
+2018-03-03 22:32:37 139791892031232 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-03-03 22:32:37 139792557273024 [Note] Plugin 'FEEDBACK' is disabled.
+2018-03-03 22:32:37 139792557273024 [ERROR] Can't open and lock privilege tables: Table 'mysql.servers' doesn't exist
+2018-03-03 22:32:37 139792557273024 [Note] Server socket created on IP: '::'.
+2018-03-03 22:32:37 139792557273024 [Warning] Can't open and lock time zone table: Table 'mysql.time_zone_leap_second' doesn't exist trying to live without them
+2018-03-03 22:32:37 139792556919552 [Warning] Failed to load slave replication state from table mysql.gtid_slave_pos: 1146: Table 'mysql.gtid_slave_pos' doesn't exist
+2018-03-03 22:32:37 139792557273024 [Note] Reading of all Master_info entries succeded
+2018-03-03 22:32:37 139792557273024 [Note] Added new Master_info '' to hash table
+2018-03-03 22:32:37 139792557273024 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '10.1.31-MariaDB'  socket: '/home/manjaro/.config/cqrlog/database/sock'  port: 64000  MariaDB Server
+2018-03-03 22:32:41 7f23fdaddb00 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2018-03-03 22:32:41 7f23fdaddb00 InnoDB: Recalculation of persistent statistics requested for table "cqrlog_common"."bands" index "band" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2018-03-03 22:32:41 7f23fdaddb00 InnoDB: Recalculation of persistent statistics requested for table "cqrlog_common"."dxclusters" index "description" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2018-03-03 22:32:41 7f23fdaddb00 InnoDB: Recalculation of persistent statistics requested for table "cqrlog_common"."iota_list" index "iota_nr" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2018-03-03 22:32:41 7f23fdaddb00 InnoDB: Recalculation of persistent statistics requested for table "cqrlog_common"."iota_list" index "pref" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2018-03-03 22:32:41 7f23fdaddb00 InnoDB: Recalculation of persistent statistics requested for table "cqrlog_common"."dxcc_ref" index "pref" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2018-03-03 22:32:41 7f23fdaddb00 InnoDB: Recalculation of persistent statistics requested for table "cqrlog_common"."dxcc_ref" index "adif" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2018-03-03 22:32:41 7f23fdaddb00 InnoDB: Recalculation of persistent statistics requested for table "cqrlog_common"."qslmgr" index "callsign" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2018-03-03 22:32:41 7f23fdaddb00 InnoDB: Recalculation of persistent statistics requested for table "cqrlog_common"."qslmgr" index "fromdate" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2018-03-03 22:32:41 7f23fdaddb00 InnoDB: Recalculation of persistent statistics requested for table "cqrlog_common"."log_list" index "log_nr" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2018-03-03 22:32:41 7f23fdaddb00 InnoDB: Recalculation of persistent statistics requested for table "cqrlog001"."cqrlog_main" index "main_index" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2018-03-03 22:32:41 7f23fdaddb00 InnoDB: Recalculation of persistent statistics requested for table "cqrlog001"."cqrlog_main" index "callsign" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2018-03-03 22:32:41 7f23fdaddb00 InnoDB: Recalculation of persistent statistics requested for table "cqrlog001"."cqrlog_main" index "name" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2018-03-03 22:32:41 7f23fdaddb00 InnoDB: Recalculation of persistent statistics requested for table "cqrlog001"."cqrlog_main" index "qth" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2018-03-03 22:32:41 7f23fdaddb00 InnoDB: Recalculation of persistent statistics requested for table "cqrlog001"."cqrlog_main" index "adif" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2018-03-03 22:32:42 7f23fdaddb00 InnoDB: Recalculation of persistent statistics requested for table "cqrlog001"."cqrlog_main" index "idcall" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2018-03-03 22:32:42 7f23fdaddb00 InnoDB: Recalculation of persistent statistics requested for table "cqrlog001"."cqrlog_main" index "band" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2018-03-03 22:32:42 7f23fdaddb00 InnoDB: Recalculation of persistent statistics requested for table "cqrlog001"."cqrlog_main" index "club_nr1" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2018-03-03 22:32:42 7f23fdaddb00 InnoDB: Recalculation of persistent statistics requested for table "cqrlog001"."cqrlog_main" index "club_nr2" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2018-03-03 22:32:42 7f23fdaddb00 InnoDB: Recalculation of persistent statistics requested for table "cqrlog001"."cqrlog_main" index "club_nr3" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2018-03-03 22:32:42 7f23fdaddb00 InnoDB: Recalculation of persistent statistics requested for table "cqrlog001"."cqrlog_main" index "club_nr4" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2018-03-03 22:32:42 7f23fdaddb00 InnoDB: Recalculation of persistent statistics requested for table "cqrlog001"."cqrlog_main" index "club_nr5" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2018-03-03 22:32:42 7f23fdaddb00 InnoDB: Recalculation of persistent statistics requested for table "cqrlog001"."notes" index "callsign" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2018-03-03 22:32:42 7f23fdaddb00 InnoDB: Recalculation of persistent statistics requested for table "cqrlog001"."profiles" index "nr" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2018-03-03 22:32:42 7f23fdaddb00 InnoDB: Recalculation of persistent statistics requested for table "cqrlog001"."club1" index "club_nr" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2018-03-03 22:32:42 7f23fdaddb00 InnoDB: Recalculation of persistent statistics requested for table "cqrlog001"."club1" index "fromdate" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2018-03-03 22:32:42 7f23fdaddb00 InnoDB: Recalculation of persistent statistics requested for table "cqrlog001"."club1" index "todate" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2018-03-03 22:32:42 7f23fdaddb00 InnoDB: Recalculation of persistent statistics requested for table "cqrlog001"."club1" index "clubcall" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2018-03-03 22:32:42 7f23fdaddb00 InnoDB: Recalculation of persistent statistics requested for table "cqrlog001"."club2" index "club_nr" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2018-03-03 22:32:43 7f23fdaddb00 InnoDB: Recalculation of persistent statistics requested for table "cqrlog001"."club2" index "fromdate" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2018-03-03 22:32:43 7f23fdaddb00 InnoDB: Recalculation of persistent statistics requested for table "cqrlog001"."club2" index "todate" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2018-03-03 22:32:43 7f23fdaddb00 InnoDB: Recalculation of persistent statistics requested for table "cqrlog001"."club2" index "clubcall" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2018-03-03 22:32:43 7f23fdaddb00 InnoDB: Recalculation of persistent statistics requested for table "cqrlog001"."club3" index "club_nr" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2018-03-03 22:32:43 7f23fdaddb00 InnoDB: Recalculation of persistent statistics requested for table "cqrlog001"."club3" index "fromdate" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2018-03-03 22:32:43 7f23fdaddb00 InnoDB: Recalculation of persistent statistics requested for table "cqrlog001"."club3" index "todate" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2018-03-03 22:32:43 7f23fdaddb00 InnoDB: Recalculation of persistent statistics requested for table "cqrlog001"."club3" index "clubcall" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2018-03-03 22:32:43 7f23fdaddb00 InnoDB: Recalculation of persistent statistics requested for table "cqrlog001"."club4" index "club_nr" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2018-03-03 22:32:43 7f23fdaddb00 InnoDB: Recalculation of persistent statistics requested for table "cqrlog001"."club4" index "fromdate" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2018-03-03 22:32:43 7f23fdaddb00 InnoDB: Recalculation of persistent statistics requested for table "cqrlog001"."club4" index "todate" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2018-03-03 22:32:43 7f23fdaddb00 InnoDB: Recalculation of persistent statistics requested for table "cqrlog001"."club4" index "clubcall" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2018-03-03 22:32:43 7f23fdaddb00 InnoDB: Recalculation of persistent statistics requested for table "cqrlog001"."club5" index "club_nr" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2018-03-03 22:32:43 7f23fdaddb00 InnoDB: Recalculation of persistent statistics requested for table "cqrlog001"."club5" index "fromdate" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2018-03-03 22:32:43 7f23fdaddb00 InnoDB: Recalculation of persistent statistics requested for table "cqrlog001"."club5" index "todate" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2018-03-03 22:32:43 7f23fdaddb00 InnoDB: Recalculation of persistent statistics requested for table "cqrlog001"."club5" index "clubcall" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2018-03-03 22:32:44 7f23fdaddb00 InnoDB: Recalculation of persistent statistics requested for table "cqrlog001"."zipcode1" index "zip" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2018-03-03 22:32:44 7f23fdaddb00 InnoDB: Recalculation of persistent statistics requested for table "cqrlog001"."zipcode2" index "zip" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2018-03-03 22:32:44 7f23fdaddb00 InnoDB: Recalculation of persistent statistics requested for table "cqrlog001"."zipcode3" index "zip" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2018-03-03 22:32:44 7f23fdaddb00 InnoDB: Recalculation of persistent statistics requested for table "cqrlog001"."dxcc_id" index "adif" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2018-03-03 22:32:44 7f23fdaddb00 InnoDB: Recalculation of persistent statistics requested for table "cqrlog001"."log_changes" index "id_cqrlog_main" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2018-03-03 22:32:44 7f23fdaddb00 InnoDB: Recalculation of persistent statistics requested for table "cqrlog001"."call_alert" index "id" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2018-03-03 22:32:44 7f23fdaddb00 InnoDB: Recalculation of persistent statistics requested for table "cqrlog001"."call_alert" index "callsign" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2018-03-04  0:08:55 139791644248832 [Note] /usr/sbin/mysqld: Normal shutdown
+2018-03-04  0:08:55 139791950767872 [Note] InnoDB: FTS optimize thread exiting.
+2018-03-04  0:08:55 139791644248832 [Note] InnoDB: Starting shutdown...
+2018-03-04  0:08:55 139791644248832 [Note] InnoDB: Waiting for page_cleaner to finish flushing of buffer pool
+2018-03-04  0:08:56 139791644248832 [Note] InnoDB: Shutdown completed; log sequence number 4065060
+2018-03-04  0:08:56 139791644248832 [Note] /usr/sbin/mysqld: Shutdown complete
+
+2018-03-04 11:12:44 140018369544128 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-03-04 11:12:44 140018369544128 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-03-04 11:12:44 140018369544128 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-03-04 11:12:44 140018369544128 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-03-04 11:12:44 140018369544128 [Note] InnoDB: GCC builtin __atomic_thread_fence() is used for memory barrier
+2018-03-04 11:12:44 140018369544128 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2018-03-04 11:12:44 140018369544128 [Note] InnoDB: Using Linux native AIO
+2018-03-04 11:12:44 140018369544128 [Note] InnoDB: Using SSE crc32 instructions
+2018-03-04 11:12:44 140018369544128 [Note] InnoDB: Initializing buffer pool, size = 80.0M
+2018-03-04 11:12:44 140018369544128 [Note] InnoDB: Completed initialization of buffer pool
+2018-03-04 11:12:44 140018369544128 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-03-04 11:12:44 140018369544128 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-03-04 11:12:44 140018369544128 [Note] InnoDB: Waiting for purge to start
+2018-03-04 11:12:44 140018369544128 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.36-83.0 started; log sequence number 4065060
+2018-03-04 11:12:44 140017698010880 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-03-04 11:12:44 140018369544128 [Note] Plugin 'FEEDBACK' is disabled.
+2018-03-04 11:12:45 140018369544128 [ERROR] Can't open and lock privilege tables: Table 'mysql.servers' doesn't exist
+2018-03-04 11:12:45 140018369544128 [Note] Server socket created on IP: '::'.
+2018-03-04 11:12:45 140018369544128 [Warning] Can't open and lock time zone table: Table 'mysql.time_zone_leap_second' doesn't exist trying to live without them
+2018-03-04 11:12:45 140018369190656 [Warning] Failed to load slave replication state from table mysql.gtid_slave_pos: 1146: Table 'mysql.gtid_slave_pos' doesn't exist
+2018-03-04 11:12:45 140018369544128 [Note] Reading of all Master_info entries succeded
+2018-03-04 11:12:45 140018369544128 [Note] Added new Master_info '' to hash table
+2018-03-04 11:12:45 140018369544128 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '10.1.31-MariaDB'  socket: '/home/manjaro/.config/cqrlog/database/sock'  port: 64000  MariaDB Server
+2018-03-04 11:12:45 7f589123ab00 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2018-03-04 13:03:13 140017437862656 [Note] /usr/sbin/mysqld: Normal shutdown
+2018-03-04 13:03:13 140017742063360 [Note] InnoDB: FTS optimize thread exiting.
+2018-03-04 13:03:13 140017437862656 [Note] InnoDB: Starting shutdown...
+2018-03-04 13:03:14 140017437862656 [Note] InnoDB: Waiting for page_cleaner to finish flushing of buffer pool
+2018-03-04 13:03:16 140017437862656 [Note] InnoDB: Shutdown completed; log sequence number 4528421
+2018-03-04 13:03:16 140017437862656 [Note] /usr/sbin/mysqld: Shutdown complete
+
+2018-03-04 15:47:50 140247174832064 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-03-04 15:47:50 140247174832064 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-03-04 15:47:50 140247174832064 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-03-04 15:47:50 140247174832064 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-03-04 15:47:50 140247174832064 [Note] InnoDB: GCC builtin __atomic_thread_fence() is used for memory barrier
+2018-03-04 15:47:50 140247174832064 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2018-03-04 15:47:50 140247174832064 [Note] InnoDB: Using Linux native AIO
+2018-03-04 15:47:50 140247174832064 [Note] InnoDB: Using SSE crc32 instructions
+2018-03-04 15:47:50 140247174832064 [Note] InnoDB: Initializing buffer pool, size = 80.0M
+2018-03-04 15:47:50 140247174832064 [Note] InnoDB: Completed initialization of buffer pool
+2018-03-04 15:47:50 140247174832064 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-03-04 15:47:50 140247174832064 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-03-04 15:47:50 140247174832064 [Note] InnoDB: Waiting for purge to start
+2018-03-04 15:47:50 140247174832064 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.36-83.0 started; log sequence number 4528421
+2018-03-04 15:47:50 140247174832064 [Note] Plugin 'FEEDBACK' is disabled.
+2018-03-04 15:47:50 140246503302912 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-03-04 15:47:50 140247174832064 [ERROR] Can't open and lock privilege tables: Table 'mysql.servers' doesn't exist
+2018-03-04 15:47:50 140247174832064 [Note] Server socket created on IP: '::'.
+2018-03-04 15:47:50 140247174832064 [Warning] Can't open and lock time zone table: Table 'mysql.time_zone_leap_second' doesn't exist trying to live without them
+2018-03-04 15:47:50 140247174478592 [Warning] Failed to load slave replication state from table mysql.gtid_slave_pos: 1146: Table 'mysql.gtid_slave_pos' doesn't exist
+2018-03-04 15:47:50 140247174832064 [Note] Reading of all Master_info entries succeded
+2018-03-04 15:47:50 140247174832064 [Note] Added new Master_info '' to hash table
+2018-03-04 15:47:50 140247174832064 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '10.1.31-MariaDB'  socket: '/home/manjaro/.config/cqrlog/database/sock'  port: 64000  MariaDB Server
+2018-03-04 15:47:51 7f8dd6ff4b00 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2018-03-04 15:57:44 140247173556992 [Note] /usr/sbin/mysqld: Normal shutdown
+2018-03-04 15:57:44 140246549452544 [Note] InnoDB: FTS optimize thread exiting.
+2018-03-04 15:57:44 140247173556992 [Note] InnoDB: Starting shutdown...
+2018-03-04 15:57:44 140247173556992 [Note] InnoDB: Waiting for page_cleaner to finish flushing of buffer pool
+2018-03-04 15:57:46 140247173556992 [Note] InnoDB: Shutdown completed; log sequence number 4620946
+2018-03-04 15:57:46 140247173556992 [Note] /usr/sbin/mysqld: Shutdown complete
+
+2018-03-04 17:17:46 139970536316864 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-03-04 17:17:46 139970536316864 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-03-04 17:17:46 139970536316864 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-03-04 17:17:46 139970536316864 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-03-04 17:17:46 139970536316864 [Note] InnoDB: GCC builtin __atomic_thread_fence() is used for memory barrier
+2018-03-04 17:17:46 139970536316864 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2018-03-04 17:17:46 139970536316864 [Note] InnoDB: Using Linux native AIO
+2018-03-04 17:17:46 139970536316864 [Note] InnoDB: Using SSE crc32 instructions
+2018-03-04 17:17:46 139970536316864 [Note] InnoDB: Initializing buffer pool, size = 80.0M
+2018-03-04 17:17:46 139970536316864 [Note] InnoDB: Completed initialization of buffer pool
+2018-03-04 17:17:46 139970536316864 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-03-04 17:17:47 139970536316864 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-03-04 17:17:47 139970536316864 [Note] InnoDB: Waiting for purge to start
+2018-03-04 17:17:47 139970536316864 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.36-83.0 started; log sequence number 4620946
+2018-03-04 17:17:47 139969871079168 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-03-04 17:17:47 139970536316864 [Note] Plugin 'FEEDBACK' is disabled.
+2018-03-04 17:17:47 139970536316864 [ERROR] Can't open and lock privilege tables: Table 'mysql.servers' doesn't exist
+2018-03-04 17:17:47 139970536316864 [Note] Server socket created on IP: '::'.
+2018-03-04 17:17:47 139970536316864 [Warning] Can't open and lock time zone table: Table 'mysql.time_zone_leap_second' doesn't exist trying to live without them
+2018-03-04 17:17:47 139970535963392 [Warning] Failed to load slave replication state from table mysql.gtid_slave_pos: 1146: Table 'mysql.gtid_slave_pos' doesn't exist
+2018-03-04 17:17:47 139970536316864 [Note] Reading of all Master_info entries succeded
+2018-03-04 17:17:47 139970536316864 [Note] Added new Master_info '' to hash table
+2018-03-04 17:17:47 139970536316864 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '10.1.31-MariaDB'  socket: '/home/manjaro/.config/cqrlog/database/sock'  port: 64000  MariaDB Server
+2018-03-04 17:17:47 7f4d6e0e8b00 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2018-03-04 17:21:44 139970535041792 [Note] /usr/sbin/mysqld: Normal shutdown
+2018-03-04 17:21:44 139969919325952 [Note] InnoDB: FTS optimize thread exiting.
+2018-03-04 17:21:44 139970535041792 [Note] InnoDB: Starting shutdown...
+2018-03-04 17:21:45 139970535041792 [Note] InnoDB: Waiting for page_cleaner to finish flushing of buffer pool
+2018-03-04 17:21:47 139970535041792 [Note] InnoDB: Shutdown completed; log sequence number 4729290
+2018-03-04 17:21:47 139970535041792 [Note] /usr/sbin/mysqld: Shutdown complete
+
+2018-03-04 17:22:34 140184227684288 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-03-04 17:22:34 140184227684288 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-03-04 17:22:34 140184227684288 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-03-04 17:22:34 140184227684288 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-03-04 17:22:34 140184227684288 [Note] InnoDB: GCC builtin __atomic_thread_fence() is used for memory barrier
+2018-03-04 17:22:34 140184227684288 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2018-03-04 17:22:34 140184227684288 [Note] InnoDB: Using Linux native AIO
+2018-03-04 17:22:34 140184227684288 [Note] InnoDB: Using SSE crc32 instructions
+2018-03-04 17:22:34 140184227684288 [Note] InnoDB: Initializing buffer pool, size = 80.0M
+2018-03-04 17:22:34 140184227684288 [Note] InnoDB: Completed initialization of buffer pool
+2018-03-04 17:22:34 140184227684288 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-03-04 17:22:34 140184227684288 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-03-04 17:22:34 140184227684288 [Note] InnoDB: Waiting for purge to start
+2018-03-04 17:22:34 140184227684288 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.36-83.0 started; log sequence number 4729290
+2018-03-04 17:22:34 140183562446592 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-03-04 17:22:34 140184227684288 [Note] Plugin 'FEEDBACK' is disabled.
+2018-03-04 17:22:34 140184227684288 [ERROR] Can't open and lock privilege tables: Table 'mysql.servers' doesn't exist
+2018-03-04 17:22:34 140184227684288 [Note] Server socket created on IP: '::'.
+2018-03-04 17:22:34 140184227684288 [Warning] Can't open and lock time zone table: Table 'mysql.time_zone_leap_second' doesn't exist trying to live without them
+2018-03-04 17:22:34 140184227330816 [Warning] Failed to load slave replication state from table mysql.gtid_slave_pos: 1146: Table 'mysql.gtid_slave_pos' doesn't exist
+2018-03-04 17:22:34 140184227684288 [Note] Reading of all Master_info entries succeded
+2018-03-04 17:22:34 140184227684288 [Note] Added new Master_info '' to hash table
+2018-03-04 17:22:34 140184227684288 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '10.1.31-MariaDB'  socket: '/home/manjaro/.config/cqrlog/database/sock'  port: 64000  MariaDB Server
+2018-03-04 17:22:35 7f7f2f0e0b00 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2018-03-04 19:19:14 140183299676928 [Note] /usr/sbin/mysqld: Normal shutdown
+2018-03-04 19:19:14 140183608596224 [Note] InnoDB: FTS optimize thread exiting.
+2018-03-04 19:19:14 140183299676928 [Note] InnoDB: Starting shutdown...
+2018-03-04 19:19:14 140183299676928 [Note] InnoDB: Waiting for page_cleaner to finish flushing of buffer pool
+2018-03-04 19:19:16 140183299676928 [Note] InnoDB: Shutdown completed; log sequence number 4887148
+2018-03-04 19:19:16 140183299676928 [Note] /usr/sbin/mysqld: Shutdown complete
+

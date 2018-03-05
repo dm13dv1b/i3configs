@@ -1,0 +1,28 @@
+[Data Source]
+DisplayName=demcsik@gmail.com
+Enabled=true
+Parent=d7aa66202bbcb281945ffd9dd7e361ff093cedbb
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://364274f0fc81b0f1c81bb00e199221b188533aed/%5bGmail%5d/Piszkozatok
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=folder://local/Templates
+StartBottom=inconsistent
+TopSignature=inconsistent
+
+[Mail Identity]
+Address=demcsik@gmail.com
+Aliases=
+Name=Demcsik Márton
+Organization=
+ReplyTo=
+SignatureUid=none
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=d5b26c37160a6ec9db19d1f123c8c7fac369d067
+RepliesToOriginFolder=false
+UseSentFolder=true

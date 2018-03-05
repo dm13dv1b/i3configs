@@ -1,0 +1,57 @@
+[Data Source]
+DisplayName=demcsik@gmail.com
+Enabled=true
+Parent=d7aa66202bbcb281945ffd9dd7e361ff093cedbb
+
+[Offline]
+StaySynchronized=false
+
+[Refresh]
+Enabled=true
+IntervalMinutes=60
+
+[Authentication]
+Host=imap.googlemail.com
+Method=Google
+Port=993
+ProxyUid=system-proxy
+RememberPassword=true
+User=demcsik@gmail.com
+CredentialName=
+
+[Mail Account]
+BackendName=imapx
+IdentityUid=88d2b65178acd465bfc1f003dfe3dbf6786f407c
+ArchiveFolder=
+NeedsInitialSetup=false
+
+[Security]
+Method=ssl-on-alternate-port
+
+[Imapx Backend]
+FilterInbox=true
+StoreChangesInterval=3
+LimitByAge=false
+LimitUnit=years
+LimitValue=1
+UseMultiFetch=false
+CheckAll=false
+CheckSubscribed=false
+ConcurrentConnections=3
+FetchOrder=ascending
+FilterAll=false
+FilterJunk=false
+FilterJunkInbox=false
+Namespace=
+RealJunkPath=[Gmail]/Spam
+RealTrashPath=[Gmail]/Kuka
+ShellCommand=ssh -C -l %u %h exec /usr/sbin/imapd
+UseIdle=false
+UseNamespace=false
+UseQresync=false
+UseRealJunkPath=true
+UseRealTrashPath=true
+UseShellCommand=false
+UseSubscriptions=false
+IgnoreOtherUsersNamespace=false
+IgnoreSharedFoldersNamespace=false

@@ -1,0 +1,19 @@
+[Data Source]
+DisplayName=demcsik@gmail.com
+Enabled=true
+Parent=d7aa66202bbcb281945ffd9dd7e361ff093cedbb
+
+[Mail Transport]
+BackendName=smtp
+
+[Authentication]
+Host=smtp.googlemail.com
+Method=Google
+Port=465
+ProxyUid=system-proxy
+RememberPassword=true
+User=demcsik@gmail.com
+CredentialName=
+
+[Security]
+Method=ssl-on-alternate-port

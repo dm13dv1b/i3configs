@@ -1,0 +1,27 @@
+{
+    "file:///run/media/manjaro/LRS_ESP/OneKey/Main": {
+        "iconSize": 1,
+        "sortOrder": "AscendingOrder",
+        "sortRole": 265,
+        "viewMode": "ListMode"
+    },
+    "file:///run/media/manjaro/LRS_ESP/OneKey/OKR": {
+        "iconSize": 1,
+        "sortOrder": "AscendingOrder",
+        "sortRole": 265,
+        "viewMode": "ListMode"
+    },
+    "file:///run/media/manjaro/LRS_ESP/OneKey/OsImage": {
+        "iconSize": 1,
+        "sortOrder": "AscendingOrder",
+        "sortRole": 265,
+        "viewMode": "ListMode"
+    },
+    "file:///run/media/manjaro/LRS_ESP/OneKey/winpe": {
+        "iconSize": 1,
+        "sortOrder": "AscendingOrder",
+        "sortRole": 265,
+        "viewMode": "ListMode"
+    }
+}
+
