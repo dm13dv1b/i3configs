@@ -6,3 +6,4 @@
 
 cp -r ~/.config/ .config/
 cp ~/.* .
+pacman -Q > packages.txt

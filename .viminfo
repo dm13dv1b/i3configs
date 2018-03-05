@@ -21,9 +21,9 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1520280153,,"wq"
+|2,0,1520280386,,"wq"
 :q
-|2,0,1520279836,,"q"
+|2,0,1520280287,,"q"
 :Q
 |2,0,1520190628,,"Q"
 :0
@@ -110,46 +110,214 @@ $
 |3,0,36,0,1,0,1520191237,"#"
 
 # File marks:
-'0  7  5  ~/src/i3configs/collect.sh
-|4,48,7,5,1520280153,"~/src/i3configs/collect.sh"
-'1  8  7  ~/src/i3configs/collect.sh
-|4,49,8,7,1520280097,"~/src/i3configs/collect.sh"
-'2  8  7  ~/src/i3configs/collect.sh
-|4,50,8,7,1520280097,"~/src/i3configs/collect.sh"
-'3  7  20  ~/src/i3configs/collect.sh
-|4,51,7,20,1520280018,"~/src/i3configs/collect.sh"
-'4  7  20  ~/src/i3configs/collect.sh
-|4,52,7,20,1520280018,"~/src/i3configs/collect.sh"
-'5  7  20  ~/src/i3configs/collect.sh
-|4,53,7,20,1520280018,"~/src/i3configs/collect.sh"
-'6  7  13  ~/src/i3configs/collect.sh
-|4,54,7,13,1520279836,"~/src/i3configs/collect.sh"
-'7  7  13  ~/src/i3configs/collect.sh
-|4,55,7,13,1520279836,"~/src/i3configs/collect.sh"
-'8  7  13  ~/src/i3configs/collect.sh
-|4,56,7,13,1520279836,"~/src/i3configs/collect.sh"
-'9  7  13  ~/src/i3configs/collect.sh
-|4,57,7,13,1520279836,"~/src/i3configs/collect.sh"
+'0  9  23  ~/src/i3configs/collect.sh
+|4,48,9,23,1520280386,"~/src/i3configs/collect.sh"
+'1  1  13  ~/src/i3configs/.git/COMMIT_EDITMSG
+|4,49,1,13,1520280342,"~/src/i3configs/.git/COMMIT_EDITMSG"
+'2  221  0  ~/src/i3configs/.git/COMMIT_EDITMSG
+|4,50,221,0,1520280320,"~/src/i3configs/.git/COMMIT_EDITMSG"
+'3  221  0  ~/src/i3configs/.git/COMMIT_EDITMSG
+|4,51,221,0,1520280320,"~/src/i3configs/.git/COMMIT_EDITMSG"
+'4  1  0  ~/src/i3configs/.git/COMMIT_EDITMSG
+|4,52,1,0,1520280287,"~/src/i3configs/.git/COMMIT_EDITMSG"
+'5  1  0  ~/src/i3configs/.git/COMMIT_EDITMSG
+|4,53,1,0,1520280287,"~/src/i3configs/.git/COMMIT_EDITMSG"
+'6  1  0  ~/src/i3configs/.git/COMMIT_EDITMSG
+|4,54,1,0,1520280287,"~/src/i3configs/.git/COMMIT_EDITMSG"
+'7  7  5  ~/src/i3configs/collect.sh
+|4,55,7,5,1520280153,"~/src/i3configs/collect.sh"
+'8  7  5  ~/src/i3configs/collect.sh
+|4,56,7,5,1520280153,"~/src/i3configs/collect.sh"
+'9  8  7  ~/src/i3configs/collect.sh
+|4,57,8,7,1520280097,"~/src/i3configs/collect.sh"
 
 # Jumplist (newest first):
+-'  9  23  ~/src/i3configs/collect.sh
+|4,39,9,23,1520280386,"~/src/i3configs/collect.sh"
+-'  1  0  ~/src/i3configs/collect.sh
+|4,39,1,0,1520280354,"~/src/i3configs/collect.sh"
+-'  1  13  ~/src/i3configs/.git/COMMIT_EDITMSG
+|4,39,1,13,1520280342,"~/src/i3configs/.git/COMMIT_EDITMSG"
+-'  1  13  ~/src/i3configs/.git/COMMIT_EDITMSG
+|4,39,1,13,1520280342,"~/src/i3configs/.git/COMMIT_EDITMSG"
+-'  221  0  ~/src/i3configs/.git/COMMIT_EDITMSG
+|4,39,221,0,1520280320,"~/src/i3configs/.git/COMMIT_EDITMSG"
+-'  221  0  ~/src/i3configs/.git/COMMIT_EDITMSG
+|4,39,221,0,1520280320,"~/src/i3configs/.git/COMMIT_EDITMSG"
+-'  221  0  ~/src/i3configs/.git/COMMIT_EDITMSG
+|4,39,221,0,1520280320,"~/src/i3configs/.git/COMMIT_EDITMSG"
+-'  221  0  ~/src/i3configs/.git/COMMIT_EDITMSG
+|4,39,221,0,1520280320,"~/src/i3configs/.git/COMMIT_EDITMSG"
+-'  1  0  ~/src/i3configs/.git/COMMIT_EDITMSG
+|4,39,1,0,1520280304,"~/src/i3configs/.git/COMMIT_EDITMSG"
+-'  1  0  ~/src/i3configs/.git/COMMIT_EDITMSG
+|4,39,1,0,1520280304,"~/src/i3configs/.git/COMMIT_EDITMSG"
+-'  1  0  ~/src/i3configs/.git/COMMIT_EDITMSG
+|4,39,1,0,1520280287,"~/src/i3configs/.git/COMMIT_EDITMSG"
+-'  1  0  ~/src/i3configs/.git/COMMIT_EDITMSG
+|4,39,1,0,1520280287,"~/src/i3configs/.git/COMMIT_EDITMSG"
+-'  7  5  ~/src/i3configs/collect.sh
+|4,39,7,5,1520280153,"~/src/i3configs/collect.sh"
+-'  7  5  ~/src/i3configs/collect.sh
+|4,39,7,5,1520280153,"~/src/i3configs/collect.sh"
+-'  7  5  ~/src/i3configs/collect.sh
+|4,39,7,5,1520280153,"~/src/i3configs/collect.sh"
+-'  7  5  ~/src/i3configs/collect.sh
+|4,39,7,5,1520280153,"~/src/i3configs/collect.sh"
+-'  7  5  ~/src/i3configs/collect.sh
+|4,39,7,5,1520280153,"~/src/i3configs/collect.sh"
+-'  7  5  ~/src/i3configs/collect.sh
+|4,39,7,5,1520280153,"~/src/i3configs/collect.sh"
+-'  7  5  ~/src/i3configs/collect.sh
+|4,39,7,5,1520280153,"~/src/i3configs/collect.sh"
+-'  7  5  ~/src/i3configs/collect.sh
+|4,39,7,5,1520280153,"~/src/i3configs/collect.sh"
 -'  7  5  ~/src/i3configs/collect.sh
 |4,39,7,5,1520280153,"~/src/i3configs/collect.sh"
 -'  8  6  ~/src/i3configs/collect.sh
 |4,39,8,6,1520280143,"~/src/i3configs/collect.sh"
+-'  8  6  ~/src/i3configs/collect.sh
+|4,39,8,6,1520280143,"~/src/i3configs/collect.sh"
+-'  8  6  ~/src/i3configs/collect.sh
+|4,39,8,6,1520280143,"~/src/i3configs/collect.sh"
+-'  8  6  ~/src/i3configs/collect.sh
+|4,39,8,6,1520280143,"~/src/i3configs/collect.sh"
+-'  8  6  ~/src/i3configs/collect.sh
+|4,39,8,6,1520280143,"~/src/i3configs/collect.sh"
+-'  8  6  ~/src/i3configs/collect.sh
+|4,39,8,6,1520280143,"~/src/i3configs/collect.sh"
+-'  8  6  ~/src/i3configs/collect.sh
+|4,39,8,6,1520280143,"~/src/i3configs/collect.sh"
+-'  8  6  ~/src/i3configs/collect.sh
+|4,39,8,6,1520280143,"~/src/i3configs/collect.sh"
+-'  8  6  ~/src/i3configs/collect.sh
+|4,39,8,6,1520280143,"~/src/i3configs/collect.sh"
+-'  1  0  ~/src/i3configs/collect.sh
+|4,39,1,0,1520280137,"~/src/i3configs/collect.sh"
+-'  1  0  ~/src/i3configs/collect.sh
+|4,39,1,0,1520280137,"~/src/i3configs/collect.sh"
+-'  1  0  ~/src/i3configs/collect.sh
+|4,39,1,0,1520280137,"~/src/i3configs/collect.sh"
+-'  1  0  ~/src/i3configs/collect.sh
+|4,39,1,0,1520280137,"~/src/i3configs/collect.sh"
+-'  1  0  ~/src/i3configs/collect.sh
+|4,39,1,0,1520280137,"~/src/i3configs/collect.sh"
+-'  1  0  ~/src/i3configs/collect.sh
+|4,39,1,0,1520280137,"~/src/i3configs/collect.sh"
+-'  1  0  ~/src/i3configs/collect.sh
+|4,39,1,0,1520280137,"~/src/i3configs/collect.sh"
 -'  1  0  ~/src/i3configs/collect.sh
 |4,39,1,0,1520280137,"~/src/i3configs/collect.sh"
 -'  8  7  ~/src/i3configs/collect.sh
 |4,39,8,7,1520280097,"~/src/i3configs/collect.sh"
+-'  8  7  ~/src/i3configs/collect.sh
+|4,39,8,7,1520280097,"~/src/i3configs/collect.sh"
+-'  8  7  ~/src/i3configs/collect.sh
+|4,39,8,7,1520280097,"~/src/i3configs/collect.sh"
+-'  8  7  ~/src/i3configs/collect.sh
+|4,39,8,7,1520280097,"~/src/i3configs/collect.sh"
+-'  8  7  ~/src/i3configs/collect.sh
+|4,39,8,7,1520280097,"~/src/i3configs/collect.sh"
+-'  8  7  ~/src/i3configs/collect.sh
+|4,39,8,7,1520280097,"~/src/i3configs/collect.sh"
+-'  8  7  ~/src/i3configs/collect.sh
+|4,39,8,7,1520280097,"~/src/i3configs/collect.sh"
+-'  8  7  ~/src/i3configs/collect.sh
+|4,39,8,7,1520280097,"~/src/i3configs/collect.sh"
+-'  1  0  ~/src/i3configs/collect.sh
+|4,39,1,0,1520280061,"~/src/i3configs/collect.sh"
+-'  1  0  ~/src/i3configs/collect.sh
+|4,39,1,0,1520280061,"~/src/i3configs/collect.sh"
+-'  1  0  ~/src/i3configs/collect.sh
+|4,39,1,0,1520280061,"~/src/i3configs/collect.sh"
+-'  1  0  ~/src/i3configs/collect.sh
+|4,39,1,0,1520280061,"~/src/i3configs/collect.sh"
+-'  1  0  ~/src/i3configs/collect.sh
+|4,39,1,0,1520280061,"~/src/i3configs/collect.sh"
+-'  1  0  ~/src/i3configs/collect.sh
+|4,39,1,0,1520280061,"~/src/i3configs/collect.sh"
+-'  1  0  ~/src/i3configs/collect.sh
+|4,39,1,0,1520280061,"~/src/i3configs/collect.sh"
 -'  1  0  ~/src/i3configs/collect.sh
 |4,39,1,0,1520280061,"~/src/i3configs/collect.sh"
 -'  7  20  ~/src/i3configs/collect.sh
 |4,39,7,20,1520280018,"~/src/i3configs/collect.sh"
 -'  7  20  ~/src/i3configs/collect.sh
 |4,39,7,20,1520280018,"~/src/i3configs/collect.sh"
+-'  7  20  ~/src/i3configs/collect.sh
+|4,39,7,20,1520280018,"~/src/i3configs/collect.sh"
+-'  7  20  ~/src/i3configs/collect.sh
+|4,39,7,20,1520280018,"~/src/i3configs/collect.sh"
+-'  7  20  ~/src/i3configs/collect.sh
+|4,39,7,20,1520280018,"~/src/i3configs/collect.sh"
+-'  7  20  ~/src/i3configs/collect.sh
+|4,39,7,20,1520280018,"~/src/i3configs/collect.sh"
+-'  7  20  ~/src/i3configs/collect.sh
+|4,39,7,20,1520280018,"~/src/i3configs/collect.sh"
+-'  7  20  ~/src/i3configs/collect.sh
+|4,39,7,20,1520280018,"~/src/i3configs/collect.sh"
+-'  7  20  ~/src/i3configs/collect.sh
+|4,39,7,20,1520280018,"~/src/i3configs/collect.sh"
+-'  7  20  ~/src/i3configs/collect.sh
+|4,39,7,20,1520280018,"~/src/i3configs/collect.sh"
+-'  7  20  ~/src/i3configs/collect.sh
+|4,39,7,20,1520280018,"~/src/i3configs/collect.sh"
+-'  7  20  ~/src/i3configs/collect.sh
+|4,39,7,20,1520280018,"~/src/i3configs/collect.sh"
+-'  7  20  ~/src/i3configs/collect.sh
+|4,39,7,20,1520280018,"~/src/i3configs/collect.sh"
+-'  7  20  ~/src/i3configs/collect.sh
+|4,39,7,20,1520280018,"~/src/i3configs/collect.sh"
+-'  7  20  ~/src/i3configs/collect.sh
+|4,39,7,20,1520280018,"~/src/i3configs/collect.sh"
+-'  7  20  ~/src/i3configs/collect.sh
+|4,39,7,20,1520280018,"~/src/i3configs/collect.sh"
+-'  1  0  ~/src/i3configs/collect.sh
+|4,39,1,0,1520280005,"~/src/i3configs/collect.sh"
+-'  1  0  ~/src/i3configs/collect.sh
+|4,39,1,0,1520280005,"~/src/i3configs/collect.sh"
+-'  1  0  ~/src/i3configs/collect.sh
+|4,39,1,0,1520280005,"~/src/i3configs/collect.sh"
+-'  1  0  ~/src/i3configs/collect.sh
+|4,39,1,0,1520280005,"~/src/i3configs/collect.sh"
+-'  1  0  ~/src/i3configs/collect.sh
+|4,39,1,0,1520280005,"~/src/i3configs/collect.sh"
+-'  1  0  ~/src/i3configs/collect.sh
+|4,39,1,0,1520280005,"~/src/i3configs/collect.sh"
+-'  1  0  ~/src/i3configs/collect.sh
+|4,39,1,0,1520280005,"~/src/i3configs/collect.sh"
 -'  1  0  ~/src/i3configs/collect.sh
 |4,39,1,0,1520280005,"~/src/i3configs/collect.sh"
 -'  7  13  ~/src/i3configs/collect.sh
 |4,39,7,13,1520279836,"~/src/i3configs/collect.sh"
+-'  7  13  ~/src/i3configs/collect.sh
+|4,39,7,13,1520279836,"~/src/i3configs/collect.sh"
+-'  7  13  ~/src/i3configs/collect.sh
+|4,39,7,13,1520279836,"~/src/i3configs/collect.sh"
+-'  7  13  ~/src/i3configs/collect.sh
+|4,39,7,13,1520279836,"~/src/i3configs/collect.sh"
+-'  7  13  ~/src/i3configs/collect.sh
+|4,39,7,13,1520279836,"~/src/i3configs/collect.sh"
+-'  7  13  ~/src/i3configs/collect.sh
+|4,39,7,13,1520279836,"~/src/i3configs/collect.sh"
+-'  7  13  ~/src/i3configs/collect.sh
+|4,39,7,13,1520279836,"~/src/i3configs/collect.sh"
+-'  7  13  ~/src/i3configs/collect.sh
+|4,39,7,13,1520279836,"~/src/i3configs/collect.sh"
+-'  1  0  ~/src/i3configs/collect.sh
+|4,39,1,0,1520279826,"~/src/i3configs/collect.sh"
+-'  1  0  ~/src/i3configs/collect.sh
+|4,39,1,0,1520279826,"~/src/i3configs/collect.sh"
+-'  1  0  ~/src/i3configs/collect.sh
+|4,39,1,0,1520279826,"~/src/i3configs/collect.sh"
+-'  1  0  ~/src/i3configs/collect.sh
+|4,39,1,0,1520279826,"~/src/i3configs/collect.sh"
+-'  1  0  ~/src/i3configs/collect.sh
+|4,39,1,0,1520279826,"~/src/i3configs/collect.sh"
+-'  1  0  ~/src/i3configs/collect.sh
+|4,39,1,0,1520279826,"~/src/i3configs/collect.sh"
+-'  1  0  ~/src/i3configs/collect.sh
+|4,39,1,0,1520279826,"~/src/i3configs/collect.sh"
 -'  1  0  ~/src/i3configs/collect.sh
 |4,39,1,0,1520279826,"~/src/i3configs/collect.sh"
 -'  9  8  ~/src/i3configs/collect.sh
@@ -160,192 +328,32 @@ $
 |4,39,9,8,1520279789,"~/src/i3configs/collect.sh"
 -'  9  8  ~/src/i3configs/collect.sh
 |4,39,9,8,1520279789,"~/src/i3configs/collect.sh"
--'  1  0  ~/src/i3configs/collect.sh
-|4,39,1,0,1520279733,"~/src/i3configs/collect.sh"
--'  48  85  ~/src/qradiolink/main.cpp
-|4,39,48,85,1520195250,"~/src/qradiolink/main.cpp"
--'  48  85  ~/src/qradiolink/main.cpp
-|4,39,48,85,1520195250,"~/src/qradiolink/main.cpp"
--'  48  85  ~/src/qradiolink/main.cpp
-|4,39,48,85,1520195250,"~/src/qradiolink/main.cpp"
--'  48  85  ~/src/qradiolink/main.cpp
-|4,39,48,85,1520195250,"~/src/qradiolink/main.cpp"
--'  48  85  ~/src/qradiolink/main.cpp
-|4,39,48,85,1520195250,"~/src/qradiolink/main.cpp"
--'  48  85  ~/src/qradiolink/main.cpp
-|4,39,48,85,1520195250,"~/src/qradiolink/main.cpp"
--'  48  85  ~/src/qradiolink/main.cpp
-|4,39,48,85,1520195250,"~/src/qradiolink/main.cpp"
--'  48  85  ~/src/qradiolink/main.cpp
-|4,39,48,85,1520195250,"~/src/qradiolink/main.cpp"
--'  48  85  ~/src/qradiolink/main.cpp
-|4,39,48,85,1520195250,"~/src/qradiolink/main.cpp"
--'  48  85  ~/src/qradiolink/main.cpp
-|4,39,48,85,1520195250,"~/src/qradiolink/main.cpp"
--'  48  85  ~/src/qradiolink/main.cpp
-|4,39,48,85,1520195250,"~/src/qradiolink/main.cpp"
--'  48  85  ~/src/qradiolink/main.cpp
-|4,39,48,85,1520195250,"~/src/qradiolink/main.cpp"
--'  48  85  ~/src/qradiolink/main.cpp
-|4,39,48,85,1520195250,"~/src/qradiolink/main.cpp"
--'  48  85  ~/src/qradiolink/main.cpp
-|4,39,48,85,1520195250,"~/src/qradiolink/main.cpp"
--'  48  85  ~/src/qradiolink/main.cpp
-|4,39,48,85,1520195250,"~/src/qradiolink/main.cpp"
--'  48  85  ~/src/qradiolink/main.cpp
-|4,39,48,85,1520195250,"~/src/qradiolink/main.cpp"
--'  48  85  ~/src/qradiolink/main.cpp
-|4,39,48,85,1520195250,"~/src/qradiolink/main.cpp"
--'  48  85  ~/src/qradiolink/main.cpp
-|4,39,48,85,1520195250,"~/src/qradiolink/main.cpp"
--'  48  85  ~/src/qradiolink/main.cpp
-|4,39,48,85,1520195250,"~/src/qradiolink/main.cpp"
--'  48  85  ~/src/qradiolink/main.cpp
-|4,39,48,85,1520195250,"~/src/qradiolink/main.cpp"
--'  48  85  ~/src/qradiolink/main.cpp
-|4,39,48,85,1520195250,"~/src/qradiolink/main.cpp"
--'  48  85  ~/src/qradiolink/main.cpp
-|4,39,48,85,1520195250,"~/src/qradiolink/main.cpp"
--'  48  85  ~/src/qradiolink/main.cpp
-|4,39,48,85,1520195250,"~/src/qradiolink/main.cpp"
--'  48  85  ~/src/qradiolink/main.cpp
-|4,39,48,85,1520195250,"~/src/qradiolink/main.cpp"
--'  48  85  ~/src/qradiolink/main.cpp
-|4,39,48,85,1520195250,"~/src/qradiolink/main.cpp"
--'  48  85  ~/src/qradiolink/main.cpp
-|4,39,48,85,1520195250,"~/src/qradiolink/main.cpp"
--'  48  85  ~/src/qradiolink/main.cpp
-|4,39,48,85,1520195250,"~/src/qradiolink/main.cpp"
--'  48  85  ~/src/qradiolink/main.cpp
-|4,39,48,85,1520195250,"~/src/qradiolink/main.cpp"
--'  48  85  ~/src/qradiolink/main.cpp
-|4,39,48,85,1520195250,"~/src/qradiolink/main.cpp"
--'  48  85  ~/src/qradiolink/main.cpp
-|4,39,48,85,1520195250,"~/src/qradiolink/main.cpp"
--'  48  85  ~/src/qradiolink/main.cpp
-|4,39,48,85,1520195250,"~/src/qradiolink/main.cpp"
--'  48  85  ~/src/qradiolink/main.cpp
-|4,39,48,85,1520195250,"~/src/qradiolink/main.cpp"
--'  1  0  ~/src/qradiolink/main.cpp
-|4,39,1,0,1520195233,"~/src/qradiolink/main.cpp"
--'  1  0  ~/src/qradiolink/main.cpp
-|4,39,1,0,1520195233,"~/src/qradiolink/main.cpp"
--'  1  0  ~/src/qradiolink/main.cpp
-|4,39,1,0,1520195233,"~/src/qradiolink/main.cpp"
--'  1  0  ~/src/qradiolink/main.cpp
-|4,39,1,0,1520195233,"~/src/qradiolink/main.cpp"
--'  1  0  ~/src/qradiolink/main.cpp
-|4,39,1,0,1520195233,"~/src/qradiolink/main.cpp"
--'  1  0  ~/src/qradiolink/main.cpp
-|4,39,1,0,1520195233,"~/src/qradiolink/main.cpp"
--'  1  0  ~/src/qradiolink/main.cpp
-|4,39,1,0,1520195233,"~/src/qradiolink/main.cpp"
--'  1  0  ~/src/qradiolink/main.cpp
-|4,39,1,0,1520195233,"~/src/qradiolink/main.cpp"
--'  1  0  ~/src/qradiolink/main.cpp
-|4,39,1,0,1520195233,"~/src/qradiolink/main.cpp"
--'  1  0  ~/src/qradiolink/main.cpp
-|4,39,1,0,1520195233,"~/src/qradiolink/main.cpp"
--'  1  0  ~/src/qradiolink/main.cpp
-|4,39,1,0,1520195233,"~/src/qradiolink/main.cpp"
--'  1  0  ~/src/qradiolink/main.cpp
-|4,39,1,0,1520195233,"~/src/qradiolink/main.cpp"
--'  1  0  ~/src/qradiolink/main.cpp
-|4,39,1,0,1520195233,"~/src/qradiolink/main.cpp"
--'  1  0  ~/src/qradiolink/main.cpp
-|4,39,1,0,1520195233,"~/src/qradiolink/main.cpp"
--'  1  0  ~/src/qradiolink/main.cpp
-|4,39,1,0,1520195233,"~/src/qradiolink/main.cpp"
--'  1  0  ~/src/qradiolink/main.cpp
-|4,39,1,0,1520195233,"~/src/qradiolink/main.cpp"
--'  1  0  ~/src/qradiolink/main.cpp
-|4,39,1,0,1520195233,"~/src/qradiolink/main.cpp"
--'  1  0  ~/src/qradiolink/main.cpp
-|4,39,1,0,1520195233,"~/src/qradiolink/main.cpp"
--'  1  0  ~/src/qradiolink/main.cpp
-|4,39,1,0,1520195233,"~/src/qradiolink/main.cpp"
--'  1  0  ~/src/qradiolink/main.cpp
-|4,39,1,0,1520195233,"~/src/qradiolink/main.cpp"
--'  1  0  ~/src/qradiolink/main.cpp
-|4,39,1,0,1520195233,"~/src/qradiolink/main.cpp"
--'  1  0  ~/src/qradiolink/main.cpp
-|4,39,1,0,1520195233,"~/src/qradiolink/main.cpp"
--'  1  0  ~/src/qradiolink/main.cpp
-|4,39,1,0,1520195233,"~/src/qradiolink/main.cpp"
--'  1  0  ~/src/qradiolink/main.cpp
-|4,39,1,0,1520195233,"~/src/qradiolink/main.cpp"
--'  1  0  ~/src/qradiolink/main.cpp
-|4,39,1,0,1520195233,"~/src/qradiolink/main.cpp"
--'  1  0  ~/src/qradiolink/main.cpp
-|4,39,1,0,1520195233,"~/src/qradiolink/main.cpp"
--'  1  0  ~/src/qradiolink/main.cpp
-|4,39,1,0,1520195233,"~/src/qradiolink/main.cpp"
--'  1  0  ~/src/qradiolink/main.cpp
-|4,39,1,0,1520195233,"~/src/qradiolink/main.cpp"
--'  1  0  ~/src/qradiolink/main.cpp
-|4,39,1,0,1520195233,"~/src/qradiolink/main.cpp"
--'  1  0  ~/src/qradiolink/main.cpp
-|4,39,1,0,1520195233,"~/src/qradiolink/main.cpp"
--'  1  0  ~/src/qradiolink/main.cpp
-|4,39,1,0,1520195233,"~/src/qradiolink/main.cpp"
--'  1  0  ~/src/qradiolink/main.cpp
-|4,39,1,0,1520195233,"~/src/qradiolink/main.cpp"
--'  182  0  ~/tlf-contest/logcfg.dat
-|4,39,182,0,1520191255,"~/tlf-contest/logcfg.dat"
--'  182  0  ~/tlf-contest/logcfg.dat
-|4,39,182,0,1520191255,"~/tlf-contest/logcfg.dat"
--'  182  0  ~/tlf-contest/logcfg.dat
-|4,39,182,0,1520191255,"~/tlf-contest/logcfg.dat"
--'  182  0  ~/tlf-contest/logcfg.dat
-|4,39,182,0,1520191255,"~/tlf-contest/logcfg.dat"
--'  182  0  ~/tlf-contest/logcfg.dat
-|4,39,182,0,1520191255,"~/tlf-contest/logcfg.dat"
--'  182  0  ~/tlf-contest/logcfg.dat
-|4,39,182,0,1520191255,"~/tlf-contest/logcfg.dat"
--'  182  0  ~/tlf-contest/logcfg.dat
-|4,39,182,0,1520191255,"~/tlf-contest/logcfg.dat"
--'  182  0  ~/tlf-contest/logcfg.dat
-|4,39,182,0,1520191255,"~/tlf-contest/logcfg.dat"
--'  182  0  ~/tlf-contest/logcfg.dat
-|4,39,182,0,1520191255,"~/tlf-contest/logcfg.dat"
--'  182  0  ~/tlf-contest/logcfg.dat
-|4,39,182,0,1520191255,"~/tlf-contest/logcfg.dat"
--'  182  0  ~/tlf-contest/logcfg.dat
-|4,39,182,0,1520191255,"~/tlf-contest/logcfg.dat"
--'  182  0  ~/tlf-contest/logcfg.dat
-|4,39,182,0,1520191255,"~/tlf-contest/logcfg.dat"
--'  182  0  ~/tlf-contest/logcfg.dat
-|4,39,182,0,1520191255,"~/tlf-contest/logcfg.dat"
--'  182  0  ~/tlf-contest/logcfg.dat
-|4,39,182,0,1520191255,"~/tlf-contest/logcfg.dat"
--'  182  0  ~/tlf-contest/logcfg.dat
-|4,39,182,0,1520191255,"~/tlf-contest/logcfg.dat"
--'  182  0  ~/tlf-contest/logcfg.dat
-|4,39,182,0,1520191255,"~/tlf-contest/logcfg.dat"
--'  182  0  ~/tlf-contest/logcfg.dat
-|4,39,182,0,1520191255,"~/tlf-contest/logcfg.dat"
--'  182  0  ~/tlf-contest/logcfg.dat
-|4,39,182,0,1520191255,"~/tlf-contest/logcfg.dat"
--'  182  0  ~/tlf-contest/logcfg.dat
-|4,39,182,0,1520191255,"~/tlf-contest/logcfg.dat"
--'  182  0  ~/tlf-contest/logcfg.dat
-|4,39,182,0,1520191255,"~/tlf-contest/logcfg.dat"
--'  182  0  ~/tlf-contest/logcfg.dat
-|4,39,182,0,1520191255,"~/tlf-contest/logcfg.dat"
+-'  9  8  ~/src/i3configs/collect.sh
+|4,39,9,8,1520279789,"~/src/i3configs/collect.sh"
+-'  9  8  ~/src/i3configs/collect.sh
+|4,39,9,8,1520279789,"~/src/i3configs/collect.sh"
 
 # History of marks within files (newest to oldest):
 
 > ~/src/i3configs/collect.sh
-	*	1520280152	0
-	"	7	5
-	^	7	6
-	.	7	5
+	*	1520280384	0
+	"	9	23
+	^	9	24
+	.	9	11
 	+	8	8
 	+	7	20
 	+	8	0
 	+	7	22
 	+	8	6
 	+	7	5
+	+	9	11
+
+> ~/src/i3configs/.git/COMMIT_EDITMSG
+	*	1520280340	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
 
 > ~/src/qradiolink/main.cpp
 	*	1520195248	0
